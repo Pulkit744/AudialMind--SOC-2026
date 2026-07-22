@@ -17,7 +17,6 @@ final_project/
 ├── notebook.ipynb
 ├── ser_model.pkl
 ├── ser_scaler.pkl
-├── README.md
 ├── report.pdf
 ├── charts/
 ├── archive/          # RAVDESS dataset
